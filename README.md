@@ -1,4 +1,5 @@
 I am David Liu, PhD. I am a professor at Purdue University Fort Wayne.
+
 I lead QIAO (Quantum Intelligent Applications and Optimization) Lab.
 Our research focuses on quantum machine leraning and optimization, gemerative AI, and Cybersecurity.
 
